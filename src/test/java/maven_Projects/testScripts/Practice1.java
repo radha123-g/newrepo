@@ -6,9 +6,9 @@ public class Practice1 {
 	
 @Test
 public void practice2() {
-	
+	//bye bye bye
 	System.out.println("Test1--> Test1");
-	//bye bye
+	
 }
 
 @Test
