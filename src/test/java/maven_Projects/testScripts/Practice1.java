@@ -8,6 +8,7 @@ public class Practice1 {
 public void practice2() {
 	
 	System.out.println("Test1--> Test1");
+	//bye bye
 }
 
 @Test
