@@ -7,7 +7,7 @@ public class Practice1 {
 @Test
 public void practice2() {
 	
-	System.out.println("Test1--> Test3");
+	System.out.println("Test1--> Test1");
 }
 
 @Test
