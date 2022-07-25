@@ -14,6 +14,7 @@ public void practice2() {
 @Test
 public void practice3() {
 	System.out.println("Test3--> Test3");
+	//hello
 }
 
 
